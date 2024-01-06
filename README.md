@@ -1,4 +1,4 @@
-# Solar_Vigilantes_spotting-outliers-in-PV-generation-data
+# Solar Vigilantes: spotting outliers in PV generation data
 
 This project focuses on exploring weather data and generation data from a photovoltaic power plant. The original datasets were obtained from Kaggle, specifically from plant 2 .csv files [here](https://www.kaggle.com/datasets/anikannal/solar-power-generation-data/data). 
 
